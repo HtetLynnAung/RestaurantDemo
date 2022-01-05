@@ -5,3 +5,6 @@ A website for restaurant owner using PHP and Googel cloud storage (Firestorage).
   - clone the porject repository
   - install composer in your pc
   - open terminal as administrator in the project directory
+  - install the requirements as following commands
+  
+
