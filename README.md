@@ -8,7 +8,7 @@ A website for restaurant owner using PHP and Googel cloud storage (Firestorage).
   - install the requirements using following commands
    ```
    composer require google/apiclient
-   composer require google/cloud-firestore![home](https://user-images.githubusercontent.com/35143459/148243904-5d559d53-c04f-4b0f-a665-1ec5f0800060.png)
+   composer require google/cloud-firestore
 
    composer require google/cloud
    composer require kreait/firebase-php
@@ -22,3 +22,5 @@ A website for restaurant owner using PHP and Googel cloud storage (Firestorage).
    - In MENU tab, user can add the new menu (data is stored to googel firestore)
    - PROFILE tab shows user's full name, currently using G-mail and profile picture
    -  and LOGOUT is included
+
+![home](https://user-images.githubusercontent.com/35143459/148243904-5d559d53-c04f-4b0f-a665-1ec5f0800060.png)
