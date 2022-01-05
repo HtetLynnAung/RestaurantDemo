@@ -22,4 +22,3 @@ A website for restaurant owner using PHP and Googel cloud storage (Firestorage).
    - In MENU tab, user can add the new menu (data is stored to googel firestore)
    - PROFILE tab shows user's full name, currently using G-mail and profile picture
    -  and LOGOUT is included
-   -  
