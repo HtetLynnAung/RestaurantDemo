@@ -23,4 +23,7 @@ A website for restaurant owner using PHP and Googel cloud storage (Firestorage).
    - PROFILE tab shows user's full name, currently using G-mail and profile picture
    -  and LOGOUT is included
 
-![home](https://user-images.githubusercontent.com/35143459/148243904-5d559d53-c04f-4b0f-a665-1ec5f0800060.png)
+![alt text](http://sharetee.org/HLA/home.png)
+![alt text](http://sharetee.org/HLA/showmenu.png)
+![alt text](http://sharetee.org/HLA/searchresult.png)
+![alt text](http://sharetee.org/HLA/addmenu.png)
