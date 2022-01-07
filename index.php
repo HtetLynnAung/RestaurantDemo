@@ -120,7 +120,7 @@ if(isset($_GET["code"]))
       <div class="container">
     
         <!-- Navbar brand (mobile) -->
-        <a class="navbar-brand d-lg-none" href="index.html">Touch</a>
+        <a class="navbar-brand d-lg-none" href="index.php">Touch</a>
     
         <!-- Navbar toggler -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
