@@ -14,7 +14,9 @@ A website for restaurant owner using PHP and Googel cloud storage (Firestorage).
    composer require kreait/firebase-php
    composer require google/cloud-storage
    ```
-  - start PHP server and execute login.php
+   
+  - change the setRedirectUri to your porject directory in configold.php
+  - start PHP localhost server and execute login.php
 
 # Website Road Map
    - First login with Google account and redirect to HOME
